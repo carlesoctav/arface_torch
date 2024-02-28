@@ -1,0 +1,8 @@
+tensorboard
+opencv-python==4.8.0.76
+numpy == 1.19.5
+torch==1.12
+easydict
+mxnet
+onnx
+scikit-learn

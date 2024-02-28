@@ -1,0 +1,6 @@
+raw_datasets/
+prepared_datasets/
+.venv/
+*.zip
+
+/__pycache__/
